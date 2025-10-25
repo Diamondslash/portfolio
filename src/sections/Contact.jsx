@@ -36,7 +36,7 @@ const Contact = () => {
           from_name: formData.name,
           to_name: "Ali",
           from_email: formData.email,
-          to_email: "AliSanatiDev@gmail.com",
+          to_email: "axisure.io@gmail.com",
           message: formData.message,
         },
         "pn-Bw_mS1_QQdofuV"
@@ -65,7 +65,7 @@ const Contact = () => {
           <h2 className="text-heading">Let's Talk</h2>
           <p className="font-normal text-neutral-400">
             Whether you're loking to build a new website, improve your existing
-            platform, or bring a unique project to life, I'm here to help
+            platform, or bring a unique project to life, We are here to help
           </p>
         </div>
         <form className="w-full" onSubmit={handleSubmit}>
